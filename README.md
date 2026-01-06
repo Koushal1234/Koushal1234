@@ -6,24 +6,26 @@
 ---
 
 ## 🚀 About Me
-- 📚 Currently studying at **SRM University**
-- 🔍 Actively learning and practicing **Data Structures & Algorithms**
-- 💡 Interested in writing clean, efficient, and scalable code
-- 🛠️ Strong foundation in **C, C++, Python, and Java**
-- 📌 Working on projects that enhance problem-solving and real-world skills
+- 📚 Studying at **SRM University**
+- 🔍 Currently focusing on **Data Structures & Algorithms**
+- 💡 Passionate about problem-solving and logical thinking
+- 🛠️ Enjoy working on real-world and academic projects
 
 ---
 
-## 🧑‍💻 Technical Skills
-- **Languages:** C, C++, Python, Java  
-- **Core Concepts:** Data Structures & Algorithms  
-- **Programming Approach:** Logic-driven, optimized, and structured coding
+## 🧑‍💻 Programming Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+</p>
 
 ---
 
 ## 📂 Featured Project
 ### 📝 **PAPER HUB**
-> A project focused on simplifying document and paper management workflows using programming fundamentals and logical design.
+> A project aimed at organizing and managing academic papers efficiently while strengthening core programming concepts.
 
 ---
 
@@ -35,13 +37,14 @@
 ---
 
 ## ✨ Creative Quote
-> *“Every bug I fix and every algorithm I learn moves me one step closer to mastering the art of problem solving.”*
+> *“I don’t just write code — I build logic, break problems, and rebuild them better.”*
 
 ---
 
 ## 📊 GitHub Stats
-![Koushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushaledupulapati&show_icons=true&theme=tokyonight)
+![Koushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koushal1234&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koushal1234&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me. Let’s learn and build together!*
+⭐ *Feel free to explore my repositories and connect with me. Learning never stops!*
