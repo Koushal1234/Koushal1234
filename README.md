@@ -21,6 +21,9 @@
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
 
 </p>
+---
+
+
 
 ---
 
@@ -31,10 +34,19 @@
 ---
 
 ## 🌐 Connect With Me
-- 🔗 **LinkedIn:** [koushaledupulapati](https://www.linkedin.com/in/koushaledupulapati)
-- 📧 **Email:** koushedupulapati@gmail.com
-- 📸 **Instagram:** @koushedupulapati
+<p align="left">
+  
+<a href="mailto:koushedupulapati@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://www.linkedin.com/in/koushaledupulapati">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/koushedupulapati">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 ---
 
 ## 📊 GitHub Stats
