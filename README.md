@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Edupulapati Srinivasa Koushal Guptha
 
-🎓 **Student at SRM University**  
-💻 **Aspiring Software Engineer | DSA Enthusiast**
 
 ---
 
@@ -36,14 +34,15 @@
 
 ---
 
-## ✨ Creative Quote
-> *“I don’t just write code — I build logic, break problems, and rebuild them better.”*
-
----
-
 ## 📊 GitHub Stats
 ![Koushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koushal1234&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koushal1234&layout=compact&theme=tokyonight)
+
+
+---
+
+## ✨ Creative Quote
+> *“I don’t just write code — I build logic, break problems, and rebuild them better.”*
 
 ---
 
